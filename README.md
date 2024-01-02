@@ -10,4 +10,4 @@ This repository encapsulates a comprehensive Data Narrative crafted during a cou
 -Strategic utilization of pandas, seaborn and matplotlib libraries to enhance the analytical process.
 
 ### Course Context
-The Data Narrative formed part of the ES-114: Probability, Statistics, and Data Visualization course offered to first-year B.Tech students in March '23 at the Indian Institute of Technology, Gandhinagar.
+The Data Narrative formed part of the ES-114: Probability, Statistics, and Data Visualization course offered to first-year B.Tech students in April '23 at the Indian Institute of Technology, Gandhinagar.
