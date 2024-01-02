@@ -2,6 +2,7 @@
 
 This repository encapsulates a comprehensive Data Narrative crafted during a course project, delving into the landscape of US higher education in 1995. The project adeptly harnessed Python, employing sophisticated techniques to merge datasets and extract crucial insights about the economic dynamics of US colleges during that time. The analysis showcased a proficiency in data analysis, visualization, statistics, and domain knowledge, skillfully utilizing the powerful pandas and matplotlib libraries.
 
+[Link to datasets](https://lib.stat.cmu.edu/datasets/colleges/) 
 ## Project Highlights
 
 ### Data Analysis Process
